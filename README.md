@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&height=300&section=header&text=KIM&nbsp;NAYEON&fontSize=90&fontColor=e8e4e4)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&height=300&section=header&text=KIM&nbsp;NAYEON&fontSize=90&fontColor=848484)
 
 <div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmonguu&theme=flag-india&show_icons=true" />
